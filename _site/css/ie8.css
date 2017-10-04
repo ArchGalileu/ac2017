@@ -1,0 +1,96 @@
+/*
+	Spectral by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Icon */
+/* line 15 */
+.icon.major {
+  border: none;
+}
+/* line 18 */
+.icon.major:before {
+  font-size: 3em;
+}
+
+/* Form */
+/* line 26 */
+label {
+  color: #2E3842;
+}
+
+/* line 30 */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+select,
+textarea {
+  border: solid 1px #dfdfdf;
+}
+
+/* Button */
+/* line 40 */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  border: solid 2px #dfdfdf;
+}
+/* line 47 */
+input[type="submit"].special,
+input[type="reset"].special,
+input[type="button"].special,
+button.special,
+.button.special {
+  border: 0 !important;
+}
+
+/* Page Wrapper + Menu */
+/* line 54 */
+#menu {
+  display: none;
+}
+
+/* line 59 */
+body.is-menu-visible #menu {
+  display: block;
+}
+
+/* Header */
+/* line 72 */
+#header nav > ul > li > a.menuToggle:after {
+  display: none;
+}
+
+/* Banner + Wrapper (style4) */
+/* line 84 */
+#banner,
+.wrapper.style4 {
+  -ms-behavior: url("js/ie/backgroundsize.min.htc");
+}
+/* line 88 */
+#banner:before,
+.wrapper.style4:before {
+  display: none;
+}
+
+/* Banner */
+/* line 96 */
+#banner .more {
+  height: 4em;
+}
+/* line 99 */
+#banner .more:after {
+  display: none;
+}
+
+/* Main */
+/* line 108 */
+#main > header {
+  -ms-behavior: url("js/ie/backgroundsize.min.htc");
+}
+/* line 111 */
+#main > header:before {
+  display: none;
+}
