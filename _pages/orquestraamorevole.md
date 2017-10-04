@@ -1,12 +1,12 @@
 ---
-key: 1
+key: 2
 title: Orquestra Clássica Amorevole
 layout: page
 #categories: topics
 excerpt: desde 2012
 permalink: orquestra-classica-amorevole
-background-image: quartetodouro.jpg
-image: quartetodouro.jpg
+background-image: 
+image: 
 --- 
 
 Descrição Orquestra

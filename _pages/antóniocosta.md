@@ -1,13 +1,13 @@
 ---
-key: 2
+key: 1
 title: António Costa
 layout: page
 #categories: topics
 excerpt: Maestro
 permalink: antonio-costa
-background-image: cameratanovnorte.jpg
-image: cameratanovnorte.jpg
-youtube: 6M2Sb7xMLA4
+background-image: 
+image: 
+youtube: 
 --- 
 {% include youtube.html %}
 
