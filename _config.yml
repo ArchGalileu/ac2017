@@ -97,8 +97,9 @@ custom_extensions: no
 # Build settings
 permalink: /:categories/:title.html
 markdown: kramdown
-#sass:
-#  style: compressed
+#### Optimization
+sass:
+  style: compressed
 exclude: ['site.bat','compose.rb','README.md']
 include: ['_pages','.htaccess']
 defaults:
