@@ -52,7 +52,7 @@
           <ul>
             <li><a href="/index.html">Home</a></li>
             <li><a href="/antonio-costa">António Costa</a></li>
-            <li><a href="/orquestra-classica-amorevole">Orquestra Clássica Amorevole</a></li>
+            <li><a href="/orquestra-classica-amorevole">Orquestra Clássica Invicta</a></li>
             <li><a href="/contato/">Contato</a></li>
             <li><a href="/feed.xml"
                    class="icon fa-feed"> RSS Feed</a></li>
@@ -102,8 +102,8 @@
            ><span class="label">E-mail</span></a></li>
   </ul>
   <ul class="copyright">
-    <li>&copy; 
-    2017
+    <li>&copy; 2017,
+    2019
       Gaspar Santos</li>
     <li><a href="/credits/">Credits</a></li>
   </ul>
